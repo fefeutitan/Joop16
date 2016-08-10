@@ -1,0 +1,10 @@
+class TestandoReferencias{
+	
+	Conta c3 = new Conta();
+	c3.nome = "Fernando Ellery"
+	c3.numero = 123;
+	c3.saldo = 2000;
+	c3.limite = 345;
+
+	c3.deposita(500);
+}
